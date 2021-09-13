@@ -1,0 +1,22 @@
+.navbar {
+    font-weight: 500;
+    font-size: 0.9rem;
+    padding-left: 15rem;
+    
+}
+.navbar li {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+}
+.navbar-brand {
+font-size: 4rem;
+font-weight: 700;
+
+}
+.carousel-inner img{
+    background-position: center;
+background-size: contain;
+    height: 500px;
+
+}
+
